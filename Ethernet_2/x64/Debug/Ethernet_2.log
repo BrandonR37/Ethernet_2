@@ -1,0 +1,4 @@
+﻿  Ethernet_2Dlg.cpp
+C:\Users\brand\Downloads\Prueba2-main\Prueba2-main\Ethernet_2\Ethernet_2Dlg.cpp(126,19): error C2228: el operando izquierdo de '.SetParent' debe tener class/struct/union
+C:\Users\brand\Downloads\Prueba2-main\Prueba2-main\Ethernet_2\Ethernet_2Dlg.cpp(126,19): message : el tipo es 'CDialog *'
+C:\Users\brand\Downloads\Prueba2-main\Prueba2-main\Ethernet_2\Ethernet_2Dlg.cpp(126,19): message : ¿deseaba utilizar '->' en su lugar?
